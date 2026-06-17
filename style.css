@@ -1,13 +1,33 @@
 #button{
     border:thin;
     border-radius:15px;
-    width:120px;
-
+    width:110px;
+    background-color:rgb(248, 245, 245);
     font-family: 'Segoe UI', Tahoma, sans-serif;
-    margin-top:200px;
-    margin-left:555px;
+    
+    margin-left:15px;
     padding:8px;
     padding-left:5px;
     padding-right:5px;
-
+    outline: 2px solid rgb(244, 239, 239);
+    border-radius: 15px;
+    
+}
+#bar{
+    
+    border:thin;
+    margin-left:400px;
+    width:400px;
+     background-color:rgb(248, 245, 245);
+     outline: 2px solid rgb(244, 239, 239);
+      border-radius:15px;
+       border-radius:15px;
+       height:30px;
+       padding-left:25px;
+        font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+#img1{
+    margin-top:50px;
+    margin-left:400px;
+    border:0px;
 }
