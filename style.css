@@ -11,6 +11,23 @@
     padding-right:5px;
     outline: 2px solid rgb(244, 239, 239);
     border-radius: 15px;
+    margin-right:0px;
+    
+}
+#button1{
+    border:thin;
+    border-radius:15px;
+    width:150px;
+    background-color:rgb(248, 245, 245);
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    
+    margin-left:15px;
+    padding:8px;
+    padding-left:5px;
+    padding-right:5px;
+    outline: 2px solid rgb(244, 239, 239);
+    border-radius: 15px;
+    margin-right:0px;
     
 }
 #bar{
@@ -30,4 +47,18 @@
     margin-top:50px;
     margin-left:400px;
     border:0px;
+    margin-right:0px;
+}
+#img2{
+    margin-top:50px;
+    margin-left:400px;
+    border:0px;
+    margin-right:0px;
+    height:150px;
+    margin-bottom:20px;
+}
+#link{
+    margin-top:100px;
+    margin-left:1120px;
+    color:black;
 }
